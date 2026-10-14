@@ -1,0 +1,293 @@
+config_version = 14
+
+[backdrop]
+blur_intensity = 0.21999999508261681
+
+[bar.default]
+background_opacity = 0.59999998658895493
+border = "primary"
+border_width = 0.5
+capsule_radius = 1
+concave_edge_corners = false
+end = [ "privacy", "spacer_4", "media", "spacer_2", "tray", "volume", "nightlight", "session" ]
+font_family = "JetBrainsMono NF"
+margin_ends = 55
+radius = 0
+scale = 0.90000000596046448
+start = [ "workspaces", "spacer_3", "indicator", "spacer_3", "bar" ]
+thickness = 20
+
+[control_center]
+hidden_tabs = [ "weather", "screen-time" ]
+
+    [control_center.calendar]
+    show_events_card = false
+
+[dock]
+concave_edge_corners = false
+radius = 0
+radius_top_left = 0
+
+[location]
+custom_schedule = true
+sunrise = "08:00"
+sunset = "19:00"
+
+[lockscreen_widgets]
+enabled = false
+schema_version = 2
+widget_order = [
+    "lockscreen-login-box@WL-1",
+    "lockscreen-login-box@output-0",
+    "lockscreen-login-box@HDMI-A-2",
+    "lockscreen-login-box@HDMI-A-1"
+]
+
+    [lockscreen_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 898.0
+    output = "HDMI-A-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-2"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 898.00006103515625
+    output = "HDMI-A-2"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-2".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@WL-1"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 477.00003051757812
+    cy = 870.00006103515625
+    output = "WL-1"
+    placement_height = 1052.0
+    placement_width = 954.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@WL-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@output-0"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 898.0
+    output = "output-0"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@output-0".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+[nightlight]
+enabled = true
+temperature_day = 6000
+temperature_night = 2500
+
+[plugin_settings."ahmedhossamdev/sticky-notes"]
+default_color = "blue"
+no_colors = true
+panel_placement = "floating"
+panel_position = "center"
+use_wallpaper_colors = true
+
+[plugin_settings."cleboost/zed-provider"]
+new_window = true
+
+[plugin_settings."noctalia/mpvpaper"]
+video_directory = "/home/zirar/Documents/2-media/media-music-&-video/video"
+
+[plugin_settings."rxtsel/portctl"]
+refresh_interval = 1
+
+[plugins]
+enabled = [
+    "rxtsel/portctl",
+    "ahmedhossamdev/sticky-notes",
+    "cleboost/zed-provider",
+    "dunarand/tmux-provider",
+    "redxtech/super-productivity"
+]
+
+[shell]
+app_icon_color = "secondary"
+app_icon_colorize = true
+avatar_path = "/home/zirar/Documents/image/pfp/nujabes.png"
+clipboard_enabled = false
+clipboard_keep_from_closed_apps = false
+corner_radius_scale = 0.0
+font_family = "JetBrainsMono NF"
+niri_overview_type_to_launch_enabled = true
+password_style = "random"
+settings_window_translucent = true
+umbriel_overview_type_to_launch_enabled = true
+
+    [shell.launcher]
+    pinned = [ "steam" ]
+
+    [shell.panel]
+    floating_offset = 6
+
+    [shell.screen_corners]
+    size = 100
+
+    [shell.screenshot]
+    annotate = true
+    directory = "/home/zirar/Documents/image/Screenshots"
+
+[theme]
+builtin = "Tokyo-Night"
+community_palette = "Zenbones"
+mode = "dark"
+pure_black_dark = true
+source = "wallpaper"
+wallpaper_scheme = "vibrant"
+
+    [theme.templates]
+    builtin_ids = [ "btop", "gtk3", "gtk4", "kitty", "niri", "qt", "umbriel" ]
+    community_ids = [ "pywalfox", "pywalfox-beta4", "neovim", "zed", "fastfetch", "zathura", "fzf", "superfile", "tmux", "yazi" ]
+
+[wallpaper]
+directory = "/home/zirar/Documents/media/image/walls"
+
+    [wallpaper.default]
+    path = "/home/zirar/Documents/media/image/walls/abstract/abstract-06.png"
+
+    [wallpaper.last]
+    path = "/home/zirar/Documents/media/image/walls/abstract/abstract-06.png"
+
+    [wallpaper.monitors.HDMI-A-1]
+    path = "/home/zirar/Documents/image/walls/Frutiger Aero/perfect_hue_95.jpg"
+
+    [wallpaper.monitors.HDMI-A-2]
+    path = "/home/zirar/Documents/media/image/walls/abstract/abstract-06.png"
+
+[weather]
+enabled = false
+
+[widget.bar]
+type = "ahmedhossamdev/sticky-notes:bar"
+
+[widget.clock]
+icon_color = "primary"
+
+[widget.indicator]
+glyph = "sitemap"
+type = "rxtsel/portctl:indicator"
+
+[widget.media]
+max_length = 200
+
+[widget.nightlight]
+scale = 0.80000000000000004
+
+[widget.privacy]
+color = "primary"
+
+[widget.spacer_2]
+anchor = true
+length = 199
+type = "spacer"
+
+[widget.spacer_3]
+length = 70
+type = "spacer"
+
+[widget.spacer_4]
+length = 235
+type = "spacer"
+
+[widget.tray]
+capsule = true
+capsule_border = "primary"
+capsule_fill = "on_secondary"
+capsule_opacity = 0.47999999999999998
+capsule_padding = 2
+capsule_radius = 0
+match_adjacent_spacing = true
+
+[widget.workspaces]
+capsule_border_width = 0.5
+capsule_padding = 0
+empty_color = "tertiary"
+hide_when_empty = true
+labels_only_when_occupied = true
+occupied_color = "on_secondary"
+style = "focus_hint"
