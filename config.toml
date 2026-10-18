@@ -1,0 +1,4 @@
+[shell]
+polkit_agent = true
+
+umbriel_overview_type_to_launch_enabled = true

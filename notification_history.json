@@ -1,0 +1,2562 @@
+{
+  "change_serial": 594,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 396,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup_cairn_1.1.393_(64bit)_(90798)-3.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790248052770,
+        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
+        "id": 226,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790248046770,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 398,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup_metro_2033_redux_2.0.0.2-2.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790248144770,
+        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
+        "id": 227,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790248138770,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 400,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup_metro_2033_redux_2.0.0.2-1.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790249264771,
+        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
+        "id": 228,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790249258771,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 402,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup_metro_last_light_redux_2.0.0.2-1.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790249516770,
+        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
+        "id": 229,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790249510770,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 405,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup_metro_last_light_redux_2.0.0.2-2.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790249620771,
+        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
+        "id": 230,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790249614771,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 406,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup_cairn_1.1.393_(64bit)_(90798)-1.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790249622772,
+        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
+        "id": 231,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790249616772,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 408,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup_cairn_1.1.393_(64bit)_(90798)-2.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790249660771,
+        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
+        "id": 232,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790249654771,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 410,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Filesystem has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1790293141950,
+        "icon": "drive-harddisk-usb-symbolic",
+        "id": 233,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790293135950,
+        "summary": "GOOGLE unmounted",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 412,
+      "notification": {
+        "actions": [],
+        "app_name": "fish",
+        "body": "~/ sudo pacman -Syu",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790295303282,
+        "icon": "utilities-terminal",
+        "id": 234,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790295300282,
+        "summary": "Failed (1) after 13m 6s",
+        "timeout": 3000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 414,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790297760159,
+        "icon": "system-reboot",
+        "id": 235,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790297750159,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 416,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part8.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332540223,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 236,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332534223,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 418,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup-fitgirl-selective-english.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332708216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 237,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332702216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 420,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup-fitgirl-selective-french.bin.part2.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332774216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 238,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332768216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 422,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup-fitgirl-selective-french.bin.part4.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332806216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 239,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332800216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 424,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part7.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332820216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 240,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332814216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 427,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part3.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332964216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 241,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332958216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 429,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part2.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332966216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 242,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332960216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 433,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part6.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332972216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 243,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332966216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 435,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part1.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332974216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 244,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332968216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 436,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part5.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332974216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 245,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332968216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 437,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup-fitgirl-selective-french.bin.part1.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332974216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 246,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332968216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 438,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "setup-fitgirl-selective-french.bin.part3.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790332978217,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 247,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790332972217,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 440,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part4.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790333106216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 248,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790333100216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 442,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "S-T-A-L-K-E-R-Shadow-Of-Chernobyl-AnkerGames.zip",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790333602216,
+        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
+        "id": 249,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790333596216,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 444,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "All file operations have been completed",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1790367302643,
+        "icon": null,
+        "id": 250,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790367296643,
+        "summary": "File Operations",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 446,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790471453334,
+        "icon": "system-reboot",
+        "id": 252,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790471443334,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 448,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "kitty",
+        "body": "~/ compressing-synchronizing-dotconfig.sh",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790558901979,
+        "icon": "/usr/lib/kitty/logo/kitty.png",
+        "id": 254,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790558895979,
+        "summary": "Failed (1) after 2m 26s",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 450,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790649095776,
+        "icon": "system-reboot",
+        "id": 255,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790649085776,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 453,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Filesystem has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1790744804424,
+        "icon": "drive-harddisk-solidstate-usb-symbolic",
+        "id": 256,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790744798424,
+        "summary": "Sans titre unmounted",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 454,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Disconnecting from filesystem.",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1790744806721,
+        "icon": "drive-harddisk-usb",
+        "id": 257,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790744800721,
+        "summary": "Unmounting Element",
+        "timeout": 6000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 456,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Filesystem has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1790744811978,
+        "icon": "drive-harddisk-usb-symbolic",
+        "id": 258,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790744805978,
+        "summary": "Element unmounted",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 458,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "void-live-x86_64-20250202-base.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790767400564,
+        "icon": "/tmp/.mount_GopeedFoCEkD/data/flutter_assets/assets/icon/icon.png",
+        "id": 260,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790767394564,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 460,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "archlinux-2026.09.01-x86_64.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790767664564,
+        "icon": "/tmp/.mount_GopeedFoCEkD/data/flutter_assets/assets/icon/icon.png",
+        "id": 261,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790767658564,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 462,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "FreeBSD-15.1-RELEASE-amd64-dvd1.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790768146564,
+        "icon": "/tmp/.mount_GopeedFoCEkD/data/flutter_assets/assets/icon/icon.png",
+        "id": 262,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790768140564,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 464,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Device can be removed.",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1790796722817,
+        "icon": "drive-removable-media-usb-symbolic",
+        "id": 263,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790796716817,
+        "summary": "USB DISK 2.0 can be safely unplugged",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 466,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "balenaEtcher-1.7.9-ia32.AppImage",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790798629527,
+        "icon": "/tmp/.mount_GopeedLdgOoK/data/flutter_assets/assets/icon/icon.png",
+        "id": 264,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790798623527,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 468,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790932703438,
+        "icon": "system-reboot",
+        "id": 265,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790932693438,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 470,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "LibreWolf",
+        "body": "From: DuckDuckGo - Start using your Duck Address",
+        "category": null,
+        "desktop_entry": "librewolf",
+        "expiry_wall_ms": 1790978675541,
+        "icon": null,
+        "id": 266,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_942ceda37c90df3e625ccfdca07665a0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790978669541,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 472,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "LibreWolf",
+        "body": "From: DuckDuckGo - Your DuckDuckGo Email Protection account has been deleted",
+        "category": null,
+        "desktop_entry": "librewolf",
+        "expiry_wall_ms": 1790979457066,
+        "icon": null,
+        "id": 267,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_942ceda37c90df3e625ccfdca07665a0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790979451066,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 474,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "LibreWolf",
+        "body": "De : DuckDuckGo - Your DuckDuckGo One-Time Passphrase",
+        "category": null,
+        "desktop_entry": "librewolf",
+        "expiry_wall_ms": 1790981405840,
+        "icon": null,
+        "id": 268,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_942ceda37c90df3e625ccfdca07665a0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790981399840,
+        "summary": "Nouveau message reçu",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 476,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "kitty",
+        "body": "~/ du -sh /",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790986115371,
+        "icon": "/usr/lib/kitty/logo/kitty.png",
+        "id": 269,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790986109371,
+        "summary": "Failed (1) after 10s",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 478,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "kitty",
+        "body": "~/Downloads/ tar -xf config_backup_restored.tar.gz ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790992367232,
+        "icon": "/usr/lib/kitty/logo/kitty.png",
+        "id": 270,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1790992361232,
+        "summary": "Done in 16s",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 480,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791002017369,
+        "icon": "system-reboot",
+        "id": 272,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791002007369,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 482,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "kitty",
+        "body": "~/Documents/8-script/ HydraLauncher-Install-Update.sh ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791002448566,
+        "icon": "/usr/lib/kitty/logo/kitty.png",
+        "id": 273,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791002442566,
+        "summary": "Done in 10s",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 484,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "kitty",
+        "body": "~/Documents/8-script/ HydraLauncher-Install-Update.sh",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791003109496,
+        "icon": "/usr/lib/kitty/logo/kitty.png",
+        "id": 274,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791003103496,
+        "summary": "Done in 10m 39s",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 486,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791109636668,
+        "icon": "system-reboot",
+        "id": 275,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791109626668,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 488,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "uBg_qNVj1dPjIQzobuvDS7rmdconRg5X-brXHQ5bxIgM_r5iYSPwh_dLff0T8DrodmKoJqnQ1gWf0-1UL6KAKF4t4fFCZx-sxuP0KiEAm6WQV1mY7WMN6dsAQ-V7r8gtyiYJki78un5kEG_nTKjZ0cVmvhjk4S7utw2CDjtQaQs3ykQ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791109717701,
+        "icon": "/tmp/.mount_GopeedomHjOG/data/flutter_assets/assets/icon/icon.png",
+        "id": 276,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791109711701,
+        "summary": "Task error",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 490,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Solarpunk_--_fitgirl-repacks.site_--_.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791112045099,
+        "icon": "/tmp/.mount_GopeedomHjOG/data/flutter_assets/assets/icon/icon.png",
+        "id": 277,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791112039099,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 492,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "nixos-minimal-26.05.11150.825e2028c29b-x86_64-linux.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791112810029,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 278,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791112804029,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 494,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "NetBSD-11.0-amd64.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791113890025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 279,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791113884025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 496,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "OpenBSD-79-amd64.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791115120025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 280,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791115114025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 498,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part18.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791115254025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 281,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791115248025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 500,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "fg-optional-bonus-content.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117180025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 282,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117174025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 502,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part11.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117436025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 283,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117430025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 504,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part01.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117584025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 284,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117578025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 506,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part02.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117716025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 285,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117710025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 508,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part08.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117770025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 286,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117764025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 510,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part04.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117792025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 287,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117786025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 512,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part05.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117858025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 288,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117852025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 515,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part14.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117868024,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 289,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117862024,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 516,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part07.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117874024,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 290,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117868024,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 519,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part06.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117894025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 291,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117888025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 522,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part03.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117900025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 292,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117894025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 523,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part17.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117904025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 293,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117898025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 524,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part13.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117906025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 294,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117900025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 528,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part16.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117968025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 295,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117962025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 529,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part12.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117970025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 296,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117964025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 530,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part09.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117972025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 297,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117966025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 532,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part15.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791117982025,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 298,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791117976025,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 534,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "fg-selective-french-vo.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791118338474,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 299,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791118332474,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 536,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "fg-selective-english-vo.bin",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791118350474,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 300,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791118344474,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 538,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Remastered_--_fitgirl-repacks.site_--_.part10.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791118412474,
+        "icon": "/tmp/.mount_GopeedOLnKgK/data/flutter_assets/assets/icon/icon.png",
+        "id": 301,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791118406474,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 540,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Device can be removed.",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1791154746565,
+        "icon": "drive-removable-media-usb-symbolic",
+        "id": 302,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791154740565,
+        "summary": "USB DISK 2.0 can be safely unplugged",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 544,
+      "notification": {
+        "actions": [],
+        "app_name": "Goverlay",
+        "body": "No configuration files located, creating files and folders.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791194765638,
+        "icon": "/usr/share//icons/hicolor/128x128/apps/io.github.benjamimgois.goverlay.png",
+        "id": 303,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791194760638,
+        "summary": "Goverlay",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 543,
+      "notification": {
+        "actions": [],
+        "app_name": "Goverlay",
+        "body": "No configuration files located for vkbasalt, creating files and folders.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791194765643,
+        "icon": "/usr/share//icons/hicolor/128x128/apps/io.github.benjamimgois.goverlay.png",
+        "id": 304,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791194760643,
+        "summary": "Goverlay",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 546,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "All file operations have been completed",
+        "category": null,
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1791195984850,
+        "icon": null,
+        "id": 305,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791195978850,
+        "summary": "File Operations",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 548,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "Eclipse-Shader-Unstable.zip",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791268376311,
+        "icon": "/tmp/.mount_GopeedkDNcNf/data/flutter_assets/assets/icon/icon.png",
+        "id": 306,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791268370311,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 550,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791370260994,
+        "icon": "system-reboot",
+        "id": 307,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791370250994,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 552,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-73qz6y.png",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791438751005,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 308,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791438745005,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 554,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-5w88w1.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791438763007,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 309,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791438757007,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 556,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-4okjdm.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791438801005,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 310,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791438795005,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 558,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-nzjvkv.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791438845005,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 311,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791438839005,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 560,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-0pw13e.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791438867007,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 312,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791438861007,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 562,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-nzxdww.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791438971006,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 313,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791438965006,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 564,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-j5r375.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791439009005,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 314,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791439003005,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 566,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-xlkzyl.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791439075006,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 315,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791439069006,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 568,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-0pgxq3.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791439123005,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 316,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791439117005,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 570,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-l3mw62.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791439161005,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 317,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791439155005,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 572,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-4y97wd.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791439207006,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 318,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791439201006,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 574,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-85mpyo.png",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791439319006,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 319,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791439313006,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 576,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-j37zjy.png",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791439345005,
+        "icon": "/tmp/.mount_GopeedEhpAkB/data/flutter_assets/assets/icon/icon.png",
+        "id": 320,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791439339005,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 578,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791500745535,
+        "icon": "system-reboot",
+        "id": 321,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791500735535,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 580,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "KeePassXC-2.7.12-x86_64.AppImage",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791623032476,
+        "icon": "/tmp/.mount_GopeedMDfOkf/data/flutter_assets/assets/icon/icon.png",
+        "id": 322,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791623026476,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 582,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "The_Witcher_3_Wild_Hunt_Remastered_Update_from_v5.00c_to_v5.01-ElAmigos.rar",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791853489987,
+        "icon": "/tmp/.mount_GopeedcNKoAJ/data/flutter_assets/assets/icon/icon.png",
+        "id": 325,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791853483987,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 584,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "linuxmint-22.3-cinnamon-64bit.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792228673251,
+        "icon": "/tmp/.mount_GopeedIOJBca/data/flutter_assets/assets/icon/icon.png",
+        "id": 326,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792228667251,
+        "summary": "Task error",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 586,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "linuxmint-22.3-xfce-64bit.iso",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792234183251,
+        "icon": "/tmp/.mount_GopeedIOJBca/data/flutter_assets/assets/icon/icon.png",
+        "id": 327,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792234177251,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 589,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Filesystem has been disconnected.",
+        "category": "device.removed",
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1792284807390,
+        "icon": "drive-harddisk-usb-symbolic",
+        "id": 328,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792284801390,
+        "summary": "GOOGLE unmounted",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 590,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Disconnecting from filesystem.",
+        "category": "device",
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1792284810492,
+        "icon": "drive-harddisk-usb",
+        "id": 329,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792284804492,
+        "summary": "Unmounting GOOGLE",
+        "timeout": 6000,
+        "urgency": "critical"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 592,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Filesystem has been disconnected.",
+        "category": "device.removed",
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1792284814758,
+        "icon": "drive-harddisk-usb-symbolic",
+        "id": 330,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792284808758,
+        "summary": "GOOGLE unmounted",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 594,
+      "notification": {
+        "actions": [],
+        "app_name": "org.gnome.Nautilus",
+        "body": "Filesystem has been disconnected.",
+        "category": "device.removed",
+        "desktop_entry": "org.gnome.Nautilus",
+        "expiry_wall_ms": 1792284820471,
+        "icon": "drive-harddisk-usb-symbolic",
+        "id": 331,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792284814471,
+        "summary": "GOOGLE unmounted",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    }
+  ],
+  "next_id": 332,
+  "version": 2
+}

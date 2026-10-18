@@ -1,0 +1,24 @@
+{
+  "Applications": [
+    "/usr/share/applications/dev.zed.Zed.desktop",
+    "/usr/share/applications/webcord.desktop",
+    "/usr/share/applications/wiremix.desktop",
+    "/usr/share/applications/cachyos-pi.desktop",
+    "/usr/share/applications/steam.desktop",
+    "/usr/share/applications/com.obsproject.Studio.desktop",
+    "/home/zirar/.local/share/applications/wine/Programs/Steam/Steam.desktop",
+    "/usr/share/applications/org.cachyos.scx-manager.desktop",
+    "/usr/share/applications/cliamp.desktop",
+    "/usr/share/applications/localsend.desktop",
+    "/usr/share/applications/org.gnome.Nautilus.desktop",
+    "/usr/share/applications/kitty.desktop",
+    "/home/zirar/.local/share/applications/gopeed.desktop",
+    "/usr/share/applications/avahi-discover.desktop",
+    "/usr/share/applications/btop.desktop",
+    "/usr/share/applications/org.prismlauncher.PrismLauncher.desktop",
+    "/usr/share/applications/mpv.desktop",
+    "/home/zirar/.local/share/applications/hydra.desktop",
+    "/usr/share/applications/org.pwmt.zathura.desktop",
+    "/usr/share/applications/proton.vpn.app.gtk.desktop"
+  ]
+}
