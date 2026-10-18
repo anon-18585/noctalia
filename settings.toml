@@ -1,4 +1,4 @@
-config_version = 14
+config_version = 15
 
 [backdrop]
 blur_intensity = 0.21999999508261681
@@ -200,7 +200,14 @@ settings_window_translucent = true
 umbriel_overview_type_to_launch_enabled = true
 
     [shell.launcher]
+    category_icons_only = true
+    compact = true
+    layout = "simple"
     pinned = [ "steam" ]
+    show_session_button = false
+    show_settings_button = false
+    sort_by_usage = false
+    track_usage = false
 
     [shell.panel]
     floating_offset = 6
@@ -218,7 +225,7 @@ community_palette = "Zenbones"
 mode = "dark"
 pure_black_dark = true
 source = "wallpaper"
-wallpaper_scheme = "vibrant"
+wallpaper_scheme = "m3-content"
 
     [theme.templates]
     builtin_ids = [ "btop", "gtk3", "gtk4", "kitty", "niri", "qt", "umbriel" ]
@@ -228,16 +235,16 @@ wallpaper_scheme = "vibrant"
 directory = "/home/zirar/Documents/media/image/walls"
 
     [wallpaper.default]
-    path = "/home/zirar/Documents/media/image/walls/cgi/CGI-abstract-14.jpg"
+    path = "/home/zirar/Documents/media/image/walls/monochrome/monochrome-19.jpg"
 
     [wallpaper.last]
-    path = "/home/zirar/Documents/media/image/walls/cgi/CGI-abstract-14.jpg"
+    path = "/home/zirar/Documents/media/image/walls/monochrome/monochrome-19.jpg"
 
     [wallpaper.monitors.HDMI-A-1]
     path = "/home/zirar/Documents/image/walls/Frutiger Aero/perfect_hue_95.jpg"
 
     [wallpaper.monitors.HDMI-A-2]
-    path = "/home/zirar/Documents/media/image/walls/cgi/CGI-abstract-14.jpg"
+    path = "/home/zirar/Documents/media/image/walls/monochrome/monochrome-19.jpg"
 
 [weather]
 enabled = false

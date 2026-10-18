@@ -1,335 +1,6 @@
 {
-  "change_serial": 594,
+  "change_serial": 620,
   "entries": [
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 396,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup_cairn_1.1.393_(64bit)_(90798)-3.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790248052770,
-        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
-        "id": 226,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790248046770,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 398,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup_metro_2033_redux_2.0.0.2-2.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790248144770,
-        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
-        "id": 227,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790248138770,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 400,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup_metro_2033_redux_2.0.0.2-1.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790249264771,
-        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
-        "id": 228,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790249258771,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 402,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup_metro_last_light_redux_2.0.0.2-1.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790249516770,
-        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
-        "id": 229,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790249510770,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 405,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup_metro_last_light_redux_2.0.0.2-2.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790249620771,
-        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
-        "id": 230,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790249614771,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 406,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup_cairn_1.1.393_(64bit)_(90798)-1.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790249622772,
-        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
-        "id": 231,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790249616772,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 408,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup_cairn_1.1.393_(64bit)_(90798)-2.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790249660771,
-        "icon": "/tmp/.mount_GopeedkcObPg/data/flutter_assets/assets/icon/icon.png",
-        "id": 232,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790249654771,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 410,
-      "notification": {
-        "actions": [],
-        "app_name": "org.gnome.Nautilus",
-        "body": "Filesystem has been disconnected.",
-        "category": null,
-        "desktop_entry": "org.gnome.Nautilus",
-        "expiry_wall_ms": 1790293141950,
-        "icon": "drive-harddisk-usb-symbolic",
-        "id": 233,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790293135950,
-        "summary": "GOOGLE unmounted",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 412,
-      "notification": {
-        "actions": [],
-        "app_name": "fish",
-        "body": "~/ sudo pacman -Syu",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790295303282,
-        "icon": "utilities-terminal",
-        "id": 234,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790295300282,
-        "summary": "Failed (1) after 13m 6s",
-        "timeout": 3000,
-        "urgency": "critical"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 414,
-      "notification": {
-        "actions": [],
-        "app_name": "CachyOS Update",
-        "body": "Reboot is recommended due to the upgrade of core system package(s).",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790297760159,
-        "icon": "system-reboot",
-        "id": 235,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790297750159,
-        "summary": "Reboot recommended!",
-        "timeout": 10000,
-        "urgency": "critical"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 416,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "Fallout_-_New_Vegas_--_fitgirl-repacks.site_--_.part8.rar",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790332540223,
-        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
-        "id": 236,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790332534223,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 418,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup-fitgirl-selective-english.bin",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790332708216,
-        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
-        "id": 237,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790332702216,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 420,
-      "notification": {
-        "actions": [
-          "default",
-          "Open notification"
-        ],
-        "app_name": "gopeed",
-        "body": "setup-fitgirl-selective-french.bin.part2.rar",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1790332774216,
-        "icon": "/tmp/.mount_GopeedpjaPLi/data/flutter_assets/assets/icon/icon.png",
-        "id": 238,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1790332768216,
-        "summary": "Task completed",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": true
-    },
     {
       "active": false,
       "close_reason": "expired",
@@ -2555,8 +2226,340 @@
         "urgency": "normal"
       },
       "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 596,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-2evpyx.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792286705314,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 332,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792286699314,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 600,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-d6lwwo.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792286743315,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 333,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792286737315,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 601,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-13gqo3.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792286743316,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 334,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792286737316,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 602,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-4g11ye.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792286749314,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 335,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792286743314,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 604,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-nemg7r.png",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792286777314,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 336,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792286771314,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 606,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-5dxrm8.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792286859314,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 337,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792286853314,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 608,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-5g9xk1.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792286963315,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 338,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792286957315,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 610,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-odwgr5.png",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792287015316,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 339,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792287009316,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 612,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-zykr8j.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792287603314,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 340,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792287597314,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 614,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-5golj1.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792287617315,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 341,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792287611315,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 616,
+      "notification": {
+        "actions": [
+          "default",
+          "Open notification"
+        ],
+        "app_name": "gopeed",
+        "body": "wallhaven-m9yl59.jpg",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792287911315,
+        "icon": "/tmp/.mount_GopeedikcckI/data/flutter_assets/assets/icon/icon.png",
+        "id": 342,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792287905315,
+        "summary": "Task completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 618,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792324096050,
+        "icon": "system-reboot",
+        "id": 343,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792324086050,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 620,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792364270997,
+        "icon": "system-reboot",
+        "id": 344,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792364260997,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": false
     }
   ],
-  "next_id": 332,
+  "next_id": 345,
   "version": 2
 }
