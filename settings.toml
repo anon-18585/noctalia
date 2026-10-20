@@ -201,7 +201,6 @@ umbriel_overview_type_to_launch_enabled = true
 
     [shell.launcher]
     category_icons_only = true
-    compact = true
     layout = "simple"
     pinned = [ "steam" ]
     show_session_button = false
@@ -229,7 +228,19 @@ wallpaper_scheme = "m3-content"
 
     [theme.templates]
     builtin_ids = [ "btop", "gtk3", "gtk4", "kitty", "niri", "qt", "umbriel" ]
-    community_ids = [ "pywalfox", "pywalfox-beta4", "neovim", "zed", "fastfetch", "zathura", "fzf", "superfile", "tmux", "yazi" ]
+    community_ids = [
+        "pywalfox",
+        "pywalfox-beta4",
+        "neovim",
+        "zed",
+        "fastfetch",
+        "zathura",
+        "bat",
+        "fzf",
+        "superfile",
+        "tmux",
+        "yazi"
+    ]
 
 [wallpaper]
 directory = "/home/zirar/Documents/media/image/walls"
