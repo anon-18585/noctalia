@@ -1,5 +1,8 @@
 config_version = 15
 
+[audio]
+enable_notification_sounds = false
+
 [backdrop]
 blur_intensity = 0.21999999508261681
 
@@ -163,7 +166,7 @@ widget_order = [
 [nightlight]
 enabled = true
 temperature_day = 6000
-temperature_night = 2500
+temperature_night = 2000
 
 [notification]
 background_opacity = 0.84999998100101948
@@ -197,7 +200,7 @@ enabled = [
 ]
 
 [shell]
-app_icon_color = "secondary"
+app_icon_color = "#FFFFFF"
 app_icon_colorize = true
 avatar_path = "/home/zirar/Documents/image/pfp/nujabes.png"
 clipboard_enabled = false
@@ -236,24 +239,11 @@ community_palette = "Zenbones"
 mode = "dark"
 pure_black_dark = true
 source = "wallpaper"
-wallpaper_scheme = "m3-content"
+wallpaper_scheme = "vibrant"
 
     [theme.templates]
     builtin_ids = [ "btop", "gtk3", "gtk4", "kitty", "niri", "qt", "umbriel" ]
-    community_ids = [
-        "pywalfox",
-        "pywalfox-beta4",
-        "neovim",
-        "zed",
-        "fastfetch",
-        "strata",
-        "zathura",
-        "bat",
-        "fzf",
-        "superfile",
-        "tmux",
-        "yazi"
-    ]
+    community_ids = [ "pywalfox", "pywalfox-beta4", "neovim", "zed", "fastfetch", "zathura", "bat", "fzf", "superfile", "tmux" ]
 
 [wallpaper]
 directory = "/home/zirar/Documents/media/image/walls"
@@ -308,7 +298,7 @@ length = 235
 type = "spacer"
 
 [widget.tray]
-capsule = true
+capsule = false
 capsule_border = "primary"
 capsule_fill = "on_secondary"
 capsule_opacity = 0.47999999999999998
