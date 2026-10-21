@@ -4,7 +4,7 @@ config_version = 15
 blur_intensity = 0.21999999508261681
 
 [bar.default]
-background_opacity = 0.59999998658895493
+background_opacity = 0.84999998100101948
 border = "primary"
 border_width = 0.5
 capsule_radius = 1
@@ -32,6 +32,10 @@ radius_top_left = 0
 custom_schedule = true
 sunrise = "08:00"
 sunset = "19:00"
+
+[lockscreen]
+transition = [ "honeycomb" ]
+transition_duration = 400
 
 [lockscreen_widgets]
 enabled = false
@@ -161,6 +165,12 @@ enabled = true
 temperature_day = 6000
 temperature_night = 2500
 
+[notification]
+background_opacity = 0.84999998100101948
+
+[osd]
+background_opacity = 0.84999998100101948
+
 [plugin_settings."ahmedhossamdev/sticky-notes"]
 default_color = "blue"
 no_colors = true
@@ -196,7 +206,6 @@ corner_radius_scale = 0.0
 font_family = "JetBrainsMono NF"
 niri_overview_type_to_launch_enabled = true
 password_style = "random"
-settings_window_translucent = true
 umbriel_overview_type_to_launch_enabled = true
 
     [shell.launcher]
@@ -218,6 +227,9 @@ umbriel_overview_type_to_launch_enabled = true
     annotate = true
     directory = "/home/zirar/Documents/image/Screenshots"
 
+    [shell.shadow]
+    alpha = 0.75999998301267624
+
 [theme]
 builtin = "Tokyo-Night"
 community_palette = "Zenbones"
@@ -234,6 +246,7 @@ wallpaper_scheme = "m3-content"
         "neovim",
         "zed",
         "fastfetch",
+        "strata",
         "zathura",
         "bat",
         "fzf",
@@ -244,6 +257,8 @@ wallpaper_scheme = "m3-content"
 
 [wallpaper]
 directory = "/home/zirar/Documents/media/image/walls"
+transition = [ "honeycomb" ]
+transition_duration = 400
 
     [wallpaper.default]
     path = "/home/zirar/Documents/media/image/walls/monochrome/monochrome-19.jpg"
