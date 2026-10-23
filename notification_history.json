@@ -1,29 +1,6 @@
 {
-  "change_serial": 840,
+  "change_serial": 842,
   "entries": [
-    {
-      "active": false,
-      "close_reason": "expired",
-      "event_serial": 642,
-      "notification": {
-        "actions": [],
-        "app_name": "kew",
-        "body": " ",
-        "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1792562045180,
-        "icon": null,
-        "id": 355,
-        "image_data": null,
-        "origin": "external",
-        "persist_in_history": false,
-        "received_wall_ms": 1792562039180,
-        "summary": "Daft-Punk-Doin'-it-Right-Official-Audio-ft.-Panda-Bear-LLgyhZVvx0",
-        "timeout": 6000,
-        "urgency": "normal"
-      },
-      "seen": false
-    },
     {
       "active": false,
       "close_reason": "expired",
@@ -2315,8 +2292,31 @@
         "urgency": "normal"
       },
       "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 842,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1792664932703,
+        "icon": "system-reboot",
+        "id": 455,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792664922703,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": false
     }
   ],
-  "next_id": 455,
+  "next_id": 456,
   "version": 2
 }
